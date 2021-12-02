@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="screen_title"></string>
+
+
+    <string-array name="priorityLevels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="chooseList">
+        <item>College Assignments</item>
+        <item>Professional Work</item>
+        <item>House Work</item>
+    </string-array>
+
+</resources>
